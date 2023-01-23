@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644258739548",
+    "project_id": "digidress-eb907",
+    "storage_bucket": "digidress-eb907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644258739548:android:4edffd3da1fc0256f7fd99",
+        "android_client_info": {
+          "package_name": "com.example.digidress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644258739548-ie1qruchjrt17mejue45vahrk4hsb67d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c6mIEoqFfsdz5S5QbmbQCDAsIwSVHD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644258739548-ie1qruchjrt17mejue45vahrk4hsb67d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
